@@ -1,0 +1,18 @@
+# Password file
+password.txt
+
+# Or ignore all .txt files with passwords
+*password*.txt
+
+# Environment files (common pattern)
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node modules
+node_modules/
+password
